@@ -50,13 +50,8 @@ https://melissapazzanese123.github.io/homework-1-challenge/
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+# Screenshot link:
+https://github.com/melissapazzanese123/homework-1-challenge/tree/main/assets/images
 
 
 ## Credits
